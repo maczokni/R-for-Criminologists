@@ -1,5 +1,5 @@
 ---
-title: 'WEEK 2: GRAPHICS AND EXPLORATORY ANALYSIS'
+title: 'WEEK 2: Graphics with ggplot2'
 author: "Juanjo Medina"
 output: 
   html_document:
