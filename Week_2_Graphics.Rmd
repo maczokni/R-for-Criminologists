@@ -1,5 +1,5 @@
 ---
-title: 'Week 2 lab notes'
+title: 'Week 2 Graphics with ggplot2'
 author: "Juanjo Medina, updates by Reka Solymosi"
 date: "29 September 2016"
 logo: uomLogo.png
@@ -10,7 +10,7 @@ output:
 ---
 <img src="uomLogo.png" alt="logo" height="100" width="150" style="position:absolute;top:10px;right:10px;" />
 
-# WEEK 2: GRAPHICS AND EXPLORATORY ANALYSIS
+# WEEK 2: Graphics with ggplot2
 
 **Table of Contents**
 
